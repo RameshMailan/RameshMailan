@@ -45,6 +45,9 @@
 
 ---
 
+### ⚡ Recent GitHub Activity
+![GitHub Streak](https://streak-stats.demolab.com?user=rameshmailan&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
+
 ### 🚀 My Sample Projects
 
 | Project | Description |
@@ -52,8 +55,6 @@
 | [**spring-api-demo**](https://github.com/rameshmailan/spring-api-demo) | Basic REST API using Spring Boot to understand controllers and services |
 | [**todo-app-dart**](https://github.com/rameshmailan/todo-app-dart) | Simple task manager built with Dart for learning frontend logic |
 | [**portfolio-site**](https://github.com/rameshmailan/portfolio-site) | Personal portfolio website made with HTML/CSS/JavaScript |
-
-> *(Tip: You can add real links to your projects later or keep placeholders for now!)*
 
 ---
 
