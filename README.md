@@ -6,8 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Debugging" />
+  <img src="https://media.giphy.com/media/3o6gDWzmAzrpi5DQU8/giphy.gif" width="350" alt="When code works" />
 </p>
+
 
 
 
