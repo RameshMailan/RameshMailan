@@ -6,8 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEduSbSGpGaRX2Vri/giphy.gif" width="300" alt="Mind blown" />
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" alt="Java code" />
 </p>
+
 
 
 
