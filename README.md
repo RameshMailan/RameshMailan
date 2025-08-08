@@ -11,6 +11,12 @@
 
 ---
 
+### 📝 Latest Blog Posts
+<!-- BLOG-POST-LIST:START -->
+- [Understanding Java Streams](https://yourblog.com/java-streams)
+- [Building REST APIs with Spring Boot](https://yourblog.com/spring-api)
+<!-- BLOG-POST-LIST:END -->
+
 ### 👨‍💻 About Me
 
 - 🎓 I'm a **Computer Science graduate** and passionate about backend development
@@ -44,9 +50,6 @@
 </p>
 
 ---
-
-### ⚡ Recent GitHub Activity
-![GitHub Streak](https://streak-stats.demolab.com?user=rameshmailan&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D)
 
 ### 🚀 My Sample Projects
 
