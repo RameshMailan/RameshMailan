@@ -6,15 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o6gDWzmAzrpi5DQU8/giphy.gif" width="350" alt="When code works" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding" />
 </p>
-
-
-
-
-
-
-
 
 ---
 
