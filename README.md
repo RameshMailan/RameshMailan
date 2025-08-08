@@ -2,11 +2,11 @@
 <h3 align="center">☕ Aspiring Java Software Engineer | 💻 Fresher | 📘 Curious Learner</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Java+Enthusiast+%7C+Backend+Learner;Exploring+Spring+Boot+%26+Dart;Open+to+collaboration+and+learning" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=435&lines=Java+Enthusiast+%7C+Backend+Learner;Exploring+Spring+Boot+%26+Dart;Open+to+collaboration+and+learning" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding GIF">
 </p>
 
 ---
