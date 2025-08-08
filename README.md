@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Ramesh Mailan 👋</h1>
+<h1 align="center">Hey, I'm Ramesh Mailan </h1>
 <h3 align="center">☕ Aspiring Java Software Engineer | 💻 Fresher | 📘 Curious Learner</h3>
 
 <p align="center">
