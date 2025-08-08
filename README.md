@@ -51,22 +51,16 @@
 
 ---
 
-### 🚀 My Sample Projects
+### 🧰 Languages & Tools
 
-| Project | Description |
-|--------|-------------|
-| [**spring-api-demo**](https://github.com/rameshmailan/spring-api-demo) | Basic REST API using Spring Boot to understand controllers and services |
-| [**todo-app-dart**](https://github.com/rameshmailan/todo-app-dart) | Simple task manager built with Dart for learning frontend logic |
-| [**portfolio-site**](https://github.com/rameshmailan/portfolio-site) | Personal portfolio website made with HTML/CSS/JavaScript |
-
----
-
-### 📚 What I'm Learning Now
-
-- ✅ Spring Boot & RESTful APIs
-- ✅ Database integration using MySQL
-- ✅ Building real-world mini projects
-- ✅ Best practices for clean code and GitHub collaboration
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="40" />
+</p>
 
 ---
 
